@@ -2,7 +2,7 @@
 Code for the ICWSM 2023 tutorial "Collecting and Sharing Twitter Data for Academic Research: A hands-on tutorial using twarc2 and the Social Media Archive at ICPSR (SOMAR)"
 
 ## Tutorial Website
-[https://icpsr-somar-devs.github.io/](https://icpsr-somar-devs.github.io/)
+[https://icpsr-somar-devs.github.io/somar-icwsm-tutorial/](https://icpsr-somar-devs.github.io/somar-icwsm-tutorial/) 
 
 ## Tutorial Description
 This hands-on tutorial will walk participants through the data lifecycle of a social media data research project. Participants will learn how to collect data from Twitter using the twarc2 command line tool, how to share Twitter data using the Social Media Archive at ICPSR, and how to “hydrate” Twitter data shared by other researchers. After completing this tutorial, participants will be able to collect or reuse social media data in their own projects and share that data with others to verify, reproduce, and extend their work.
